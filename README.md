@@ -6,7 +6,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giorgiodaneri&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giorgiodaneri&hide=javascript,css,scss,html&theme=tokyonight)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=giorgiodaneri)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ### 🏆: Trophies:
